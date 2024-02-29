@@ -1,3 +1,4 @@
 streamlit
 openai
 azure-ai-formrecognizer==3.3.2
+python-dotenv
