@@ -1,0 +1,38 @@
+{
+    "items": [
+      {
+        "SL": "10",
+        "PartNo": "3110000109",
+        "Description": "AluZn AZ150 SHT 1.5X1250X2500 WITH PVC",
+        "HSN/SAC": "72106100",
+        "Qty": 72408.00,
+        "UOM": "KG",
+        "Rate": "1,035.00 / 1000 Unit",
+        "Tax%": "VO",
+        "Value(USD)": "74,942.28"
+      },
+      {
+        "SL": "20",
+        "PartNo": "3110000112",
+        "Description": "ALUZN AZ150 SHT 2.0X1250X2500 WITH PVC",
+        "HSN/SAC": "72106100",
+        "Qty": 60000.00,
+        "UOM": "KG",
+        "Rate": "1,035.00 / 1000 Unit",
+        "Tax%": "Vo",
+        "Value(USD)": "62,100.00"
+      },
+      {
+        "SL": "30",
+        "PartNo": "3110002039",
+        "Description": "AluZn AZ150 SHT 2.0X1000X2500 WITH PVC",
+        "HSN/SAC": "72106100",
+        "Qty": 57391.00,
+        "UOM": "KG",
+        "Rate": "1,035.00 / 1000 Unit",
+        "Tax%": "VO",
+        "Value(USD)": "59,399.69"
+      }
+    ]
+  }
+  

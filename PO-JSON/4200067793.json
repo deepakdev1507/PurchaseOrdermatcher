@@ -1,0 +1,137 @@
+{
+    "items": [
+      {
+        "SL": "10",
+        "PartNo": "3110002811",
+        "Description": "GI 275GSM ZSP SHT 1.5X1250X1600 WITH PVC",
+        "HSN/SAC": "72104900",
+        "Qty": 10000.00,
+        "UOM": "KG",
+        "Rate": "87.50 / 1 Unit",
+        "Tax%": "1A",
+        "Value(INR)": "875,000.00"
+      },
+      {
+        "SL": "20",
+        "PartNo": "3110000699",
+        "Description": "GI 275GSM ZSP SHT 1.5X1250X2300 WITH PVC",
+        "HSN/SAC": "7209",
+        "Qty": 52000.00,
+        "UOM": "KG",
+        "Rate": "87.50 / 1 Unit",
+        "Tax%": "1A",
+        "Value(INR)": "4,550,000.00"
+      },
+      {
+        "SL": "30",
+        "PartNo": "3110000700",
+        "Description": "GI 275GSM ZSP SHT 1.5X1250X2500 WITH PVC",
+        "HSN/SAC": "72104900",
+        "Qty": 100000.00,
+        "UOM": "KG",
+        "Rate": "87.50 / 1 Unit",
+        "Tax%": "1A",
+        "Value(INR)": "8,750,000.00"
+      },
+      {
+        "SL": "40",
+        "PartNo": "3110004644",
+        "Description": "GI 275GSM ZSP SHT 1.5X1500X2500 WITH PVC",
+        "HSN/SAC": "72104900",
+        "Qty": 4000.00,
+        "UOM": "KG",
+        "Rate": "87.50 / 1 Unit",
+        "Tax%": "1A",
+        "Value(INR)": "350,000.00"
+      },
+      {
+        "SL": "50",
+        "PartNo": "3110005275",
+        "Description": "GI 275GSM ZSP SHT 1.5X1500X3200 WITH PVC",
+        "HSN/SAC": "72104900",
+        "Qty": 2500.00,
+        "UOM": "KG",
+        "Rate": "87.50 / 1 Unit",
+        "Tax%": "1A",
+        "Value(INR)": "218,750.00"
+      },
+      {
+        "SL": "60",
+        "PartNo": "3110000706",
+        "Description": "GI 275GSM ZSP SHT 2.5×1250×2100 WITH PVC",
+        "HSN/SAC": "7210",
+        "Qty": 18000.00,
+        "UOM": "KG",
+        "Rate": "87.50 / 1 Unit",
+        "Tax%": "1A",
+        "Value(INR)": "1,575,000.00"
+      },
+      {
+        "SL": "70",
+        "PartNo": "3110000708",
+        "Description": "GI 275GSM ZSP SHT 2.5x1250x2500 WITH PVC",
+        "HSN/SAC": "72104990",
+        "Qty": 2000.00,
+        "UOM": "KG",
+        "Rate": "87.50 / 1 Unit",
+        "Tax%": "1A",
+        "Value(INR)": "175,000.00"
+      },
+      {
+        "SL": "80",
+        "PartNo": "3110000708",
+        "Description": "GI 275GSM ZSP SHT 2.5×1250×2500 WITH PVC",
+        "HSN/SAC": "72104990",
+        "Qty": 1000.00,
+        "UOM": "KG",
+        "Rate": "87.50 / 1 Unit",
+        "Tax%": "1A",
+        "Value(INR)": "87,500.00"
+      },
+      {
+        "SL": "90",
+        "PartNo": "3110000712",
+        "Description": "GI 275GSM ZSP SHT 3.0X1250X2500 WITH PVC",
+        "HSN/SAC": "7209",
+        "Qty": 14000.00,
+        "UOM": "KG",
+        "Rate": "87.50 / 1 Unit",
+        "Tax%": "1A",
+        "Value(INR)": "1,225,000.00"
+      },
+      {
+        "SL": "100",
+        "PartNo": "3110004998",
+        "Description": "GI 275GSM ZSP SHT 3.0X1250X6000 WITH PVC",
+        "HSN/SAC": "72104900",
+        "Qty": 2120.00,
+        "UOM": "KG",
+        "Rate": "87.50 / 1 Unit",
+        "Tax%": "1A",
+        "Value(INR)": "185,500.00"
+      },
+      {
+        "SL": "110",
+        "PartNo": "3110005295",
+        "Description": "GI 275GSM ZSP SHT 3.0X1250X3000 WITH PVC",
+        "HSN/SAC": "72104900",
+        "Qty": 1765.00,
+        "UOM": "KG",
+        "Rate": "87.50 / 1 Unit",
+        "Tax%": "1A",
+        "Value(INR)": "154,437.50"
+      },
+      {
+        "SL": "120",
+        "PartNo": "3110005277",
+        "Description": "GI 275GSM ZSP SHT 3.0X1500X6000 WITH PVC",
+        "HSN/SAC": "72104900",
+        "Qty": 1500.00,
+        "UOM": "KG",
+        "Rate": "87.50 / 1 Unit",
+        "Tax%": "1A",
+        "Value(INR)": "131,250.00"
+      }
+    ]
+  }
+  

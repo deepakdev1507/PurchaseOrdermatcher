@@ -1,0 +1,50 @@
+{
+    "items": [
+      {
+        "SL": "10",
+        "PartNo": "3110000695",
+        "Description": "GI 275GSM ZSP SHT 1.0X1250X2500 WITH PVC",
+        "HSN/SAC": "72103090",
+        "Qty": 4830.00,
+        "UOM": "KG",
+        "Rate": "650.00 / 1000 Unit",
+        "Tax%": "1B",
+        "Value(INR)": "3,139.50"
+      },
+      {
+        "SL": "20",
+        "PartNo": "3110000694",
+        "Description": "GI 275GSM ZSP SHT 1.0X1250X1740 WITH PVC",
+        "HSN/SAC": "7209",
+        "Qty": 7740.00,
+        "UOM": "KG",
+        "Rate": "750.00 / 1000 Unit",
+        "Tax%": "1B",
+        "Value(INR)": "5,805.00"
+      }
+    ],
+    "ImportantNotes": {
+      "PaymentTerms": "100% WITHIN 30 DAYS FROM OF RECEIPT AT OU EX WORKS",
+      "BasicValue": "8,944.50",
+      "Taxes": [
+        {
+          "Type": "CGST",
+          "Rate": "6.00%",
+          "Amount": "4,374.21"
+        },
+        {
+          "Type": "SGST",
+          "Rate": "6.00%",
+          "Amount": "4,374.21"
+        }
+      ],
+      "DeliveryTerms": "Packing & Forwarding",
+      "AdditionalCharges": {
+        "PackingForwarding": "6,321.00",
+        "LaminationCharges": "57,638.00"
+      },
+      "AmountInWords": "EIGHTY ONE THOUSAND SIX HUNDRED FIFTY ONE RUPEES NINETY TWO PAISE",
+      "Total(INR)": "81,651.92"
+    }
+  }
+  

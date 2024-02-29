@@ -1,0 +1,32 @@
+{
+    "items": [
+      {
+        "SL": "10",
+        "PartNo": "Hp",
+        "Description": "Workstation#Z9-TP-LinkUSB Wi-Fi ADPTR",
+        "Qty": 1.00,
+        "UOM": "SET",
+        "Rate": "94,030.00 / 1 Unit",
+        "Tax%": "1A",
+        "Value(INR)": "94,030.00"
+      }
+    ],
+    "ImportantNotes": {
+      "BasicValue": "94,030.00",
+      "PaymentTerms": "Net due in 30 days",
+      "Taxes": [
+        {
+          "Type": "CGST",
+          "Rate": "9.00%",
+          "Amount": "8,462.70"
+        },
+        {
+          "Type": "SGST",
+          "Rate": "9.00%",
+          "Amount": "8,462.70"
+        }
+      ],
+      "DeliveryInfo": "Additional Terms:"
+    }
+  }
+  

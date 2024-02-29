@@ -1,0 +1,22 @@
+{
+    "items": [
+      {
+        "SL": "10",
+        "PartNo": "SERVICE TRANSPORTATION",
+        "Description": "MON OF JAN-24",
+        "Qty": 1.00,
+        "UOM": "AU",
+        "Rate": "105,340.00 / 1 Unit",
+        "Tax%": "Vo",
+        "Value(INR)": "105,340.00"
+      }
+    ],
+    "ImportantNotes": {
+      "PaymentTerms": "Net due in 30 days",
+      "DeliveryTerms": "Info: Additional",
+      "BasicValue": "105,340.00",
+      "AmountInWords": "One lakh five thousand three hundred forty rupees",
+      "Total(INR)": "105,340.00"
+    }
+  }
+  
